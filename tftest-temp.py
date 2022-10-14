@@ -118,19 +118,8 @@ def build_and_compile_model(norm):
       layers.Dense(64, activation='relu'),
       layers.Dense(1)
   ])
-model4 = keras.Sequential([
-    tf.keras.layers.Input(shape = X_train.shape[1:]),
-    layers.Dense(300, activation='tanh'),
-    layers.Dense(300, activation='tanh'),
-    layers.Dense(300, activation='tanh'),
-    layers.Dense(300, activation='tanh'),
-    layers.Dense(300, activation='tanh'),
-    layers.Dense(300, activation='tanh'),
-    layers.Dense(1)
-])
-  model.compile(loss='rmse',
-                optimizer=tf.keras.optimizers.Adam(0.001), metricts=['rmse'])
-  return model
+
+
 
 
 dnn_model = build_and_compile_model(normalizer)
