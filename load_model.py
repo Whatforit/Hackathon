@@ -8,6 +8,8 @@ import math
 model = keras.models.load_model('dnn_model/')
 model.summary()
 file = 'owid-covid-data-large.csv'
+target = 'total_deaths_per_million'
+threshhold = 5
 def clean_data(file):
 
     column_names = ['iso_code', 'continent', 'location', 'date', 'total_cases', 'new_cases', 'new_cases_smoothed', 'total_deaths', 'new_deaths', 'new_deaths_smoothed', 'total_cases_per_million', 'new_cases_per_million', 'new_cases_smoothed_per_million', 'total_deaths_per_million', 'new_deaths_per_million', 'new_deaths_smoothed_per_million', 'reproduction_rate', 'icu_patients', 'icu_patients_per_million', 'hosp_patients', 'hosp_patients_per_million', 'weekly_icu_admissions', 'weekly_icu_admissions_per_million', 'weekly_hosp_admissions', 'weekly_hosp_admissions_per_million', 'total_tests', 'new_tests', 'total_tests_per_thousand', 'new_tests_per_thousand', 'new_tests_smoothed', 'new_tests_smoothed_per_thousand', 'positive_rate', 'tests_per_case', 'tests_units', 'total_vaccinations', 'people_vaccinated',
@@ -24,6 +26,8 @@ def clean_data(file):
     print(len(dataset.columns))
     dataset = pd.get_dummies(
         dataset, columns=['location'], prefix='', prefix_sep='')
+    dataset = dataset.dropna(subset=[target])
+    dataset = dataset.dropna(thresh=dataset.shape[1]-threshhold, axis=0)
     impute_columns = dataset.columns
     for column in impute_columns:
         dataset[column] = dataset[column].fillna(dataset[column].mean())
@@ -40,21 +44,22 @@ train_dataset.describe().transpose()
 # Split features from labels
 train_features = train_dataset.copy()
 test_features = test_dataset.copy() 
-train_labels = train_features.pop('new_deaths_per_million')
-test_labels = test_features.pop('new_deaths_per_million')
+train_labels = train_features.pop(target)
+test_labels = test_features.pop(target)
 
 # Predict
 test_predictions = model.predict(test_features).flatten()
-
+differences = []
 def test_model(test_labels, test_predictions):
-  differences = []
-  for actual, predicted in zip(test_labels, test_predictions):
-      #diff is percent error
-      diff = ((actual - predicted)/actual) * 100
-      print(f"Actual: {actual} ===== Predicted: {predicted} ===== Difference: {diff}")
-      if not math.isinf(diff):
-          differences.append(abs(diff))
+    for actual, predicted in zip(test_labels, test_predictions):
+        diff = abs(actual - predicted)
+        print(f"Actual: {actual} ===== Predicted: {predicted} ===== Difference: {diff}")
+        differences.append(diff)
+        if diff > 1000:
+            print(f"HUGE DIFFERENCE: {diff}")
   # Calculate average percent error
-  average_diff = sum(differences)/len(differences)
-  print(f"Average difference: {average_diff}")
 test_model(test_labels, test_predictions)
+average_diff = sum(differences)/len(differences)
+print(f"Average difference: {average_diff}")
+print(f"Max difference: {max(differences)}")
+print(f"Min difference: {min(differences)}")
