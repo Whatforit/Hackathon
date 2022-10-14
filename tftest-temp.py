@@ -34,51 +34,32 @@ def clean_data(file):
 
 dataset = clean_data(file)
 
+# Split the data into train and test
 train_dataset = dataset.sample(frac=0.8, random_state=0)
-
-
 test_dataset = dataset.drop(train_dataset.index)
 
-
+# Transpose location
 train_dataset.describe().transpose()
 
-
-
+# Split features from labels
 train_features = train_dataset.copy()
-test_features = test_dataset.copy()
-#train_features=np.asarray(train_features).astype(np.float32)
+test_features = test_dataset.copy() 
+train_labels = train_features.pop('new_deaths_per_million')
+test_labels = test_features.pop('new_deaths_per_million')
 
-print(train_features.tail())
-
-
-train_labels = train_features.pop('total_deaths_per_million')
-test_labels = test_features.pop('total_deaths_per_million')
-#train_labels=np.asarray(train_labels).astype(np.float32)
-print(train_labels)
+#
+print(train_dataset.describe().transpose()[['mean', 'std']])
 
 
-train_dataset.describe().transpose()[['mean', 'std']]
-
-
-
+# Create normalization layer
 normalizer = tf.keras.layers.Normalization(axis=-1)
-
-
 normalizer.adapt(np.array(train_features))
-
 print("Normalizer")
 print(normalizer.mean.numpy())
 
 
-first = np.array(train_features[:1])
 
-with np.printoptions(precision=2, suppress=True):
-  print('First example:', first)
-  print()
-  print('Normalized:', normalizer(first).numpy())
-
-
-
+'''
 def plot_loss(history):
   plt.plot(history.history['loss'], label='loss')
   plt.plot(history.history['val_loss'], label='val_loss')
@@ -90,44 +71,29 @@ def plot_loss(history):
 
 
 
-#plot_loss(history)
-
-
-test_results = {}
-'''
-test_results['linear_model'] = linear_model.evaluate(
-    test_features, test_labels, verbose=0)
-
-
-test_predictions = linear_model.predict(test_features).flatten()
-a = plt.axes(aspect='equal')
-plt.scatter(test_labels, test_predictions)
-plt.xlabel('True Values [total_deaths_per_million]')
-plt.ylabel('Predictions [total_deaths_per_million]')
-lims = [0, 50]
-plt.xlim(lims)
-plt.ylim(lims)
-_ = plt.plot(lims, lims)
+plot_loss(history)
 '''
 
 
+
+# Build the model
 def build_and_compile_model(norm):
   model = keras.Sequential([
       norm,
       layers.Dense(64, activation='relu'),
       layers.Dense(64, activation='relu'),
-      layers.Dense(1)
+      layers.Dense(1, activation='linear')
   ])
 
-  model.compile(loss='mean_absolute_error',
+  model.compile(loss='mean_squared_error',
                 optimizer=tf.keras.optimizers.Adam(0.001))
   return model
 
-
+# Compile the model
 dnn_model = build_and_compile_model(normalizer)
 dnn_model.summary()
 
-
+# Train the model
 history = dnn_model.fit(
     train_features,
     train_labels,
@@ -136,14 +102,15 @@ history = dnn_model.fit(
 
 
 
-plot_loss(history)
+#plot_loss(history)
 
+test_results = {}
 
 test_results['dnn_model'] = dnn_model.evaluate(test_features, test_labels, verbose=0)
 
-
+# Predict
 test_predictions = dnn_model.predict(test_features).flatten()
-
+'''
 a = plt.axes(aspect='equal')
 plt.scatter(test_labels, test_predictions)
 plt.xlabel('True Values [deaths]')
@@ -152,16 +119,18 @@ lims = [0, 50]
 plt.xlim(lims)
 plt.ylim(lims)
 _ = plt.plot(lims, lims)
-
+'''
 
 
 error = test_predictions - test_labels
+print("Error: ", error)
+
 plt.hist(error, bins=25)
 plt.xlabel('Prediction Error [deaths]')
 _ = plt.ylabel('Count')
 
 
-
+# Save the model
 dnn_model.save('dnn_model')
 
 
