@@ -100,7 +100,7 @@ history = dnn_model.fit(
     train_features,
     train_labels,
     validation_split=0.2,
-    verbose=1, epochs=100)
+    verbose=1, epochs=500)
 
 
 
