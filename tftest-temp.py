@@ -85,7 +85,7 @@ def build_and_compile_model(norm):
       layers.Dense(1, activation='linear')
   ])
 
-  model.compile(loss='mean_squared_error',
+  model.compile(loss='huber',
                 optimizer=tf.keras.optimizers.Adam(0.001))
   return model
 
@@ -121,7 +121,7 @@ def test_model(test_labels, test_predictions):
   # Calculate average percent error
   average_diff = sum(differences)/len(differences)
   print(f"Average difference: {average_diff}")
-
+test_model(test_labels, test_predictions)
 
 
 # Save the model
