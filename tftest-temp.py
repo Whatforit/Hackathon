@@ -24,40 +24,89 @@ def clean_data(raw_dataset, drop=True, impute=True):
     dataset.isna().sum()
     #dataset = dataset.dropna(axis=1, how='all')
     #dataset = dataset.dropna(axis=0, thresh=19)
+    to_drop_horizontally = [
+        'people_vaccinated_per_hundred',
+        'total_boosters_per_hundred',
+        'stringency_index',
+        'population_density',
+        'median_age', # maybe consider imputing 
+        'gdp_per_capita',
+        'cardiovasc_death_rate',
+        'diabetes_prevalence',
+        'female_smokers', #may need to remove missing 34.2%
+        'male_smokers', # same reasoning ^
+        'hospital_beds_per_thousand',
+        'life_expectancy',
+        'human_development_index',
+        '
+        
+        
+
+        
+        
+        #'total_vaccinations_per_hundred',
+        #'people_fully_vaccinated_per_hundred',
+        
+    ]
+    
+    data_to_impute_logically = [
+        'total_boosters_per_hundred'
+    ]
     dataset = dataset.drop(
         ['iso_code',
- 'continent',
- 'date',
- 'total_cases',
- 'new_cases',
- 'new_cases_smoothed',
- 'total_deaths',
- 'new_deaths',
- 'new_deaths_smoothed',
- 'total_cases_per_million',
- #'new_cases_smoothed_per_million',
- 'total_deaths_per_million',
- 'new_deaths_smoothed_per_million',
- 'reproduction_rate',
- 'icu_patients',
- 'hosp_patients',
- 'weekly_icu_admissions',
- 'weekly_icu_admissions_per_million',
- 'weekly_hosp_admissions',
- 'weekly_hosp_admissions_per_million',
- 'total_tests',
- 'new_tests',
- 'new_tests_smoothed',
- 'new_tests_smoothed_per_thousand',
- 'tests_per_case',
- 'tests_units',
- 'total_vaccinations',
- 'new_vaccinations_smoothed',
- 'new_vaccinations_smoothed_per_million',
- 'new_people_vaccinated_smoothed',
- 'new_people_vaccinated_smoothed_per_hundred',
- 'excess_mortality_cumulative_absolute',
- 'excess_mortality_cumulative'], axis=1)
+         'location',
+         #'continent',
+         'date',
+         'total_cases',
+         'new_cases',
+         'new_cases_smoothed',
+         'total_deaths',
+         'new_deaths',
+         'new_deaths_smoothed',
+         'total_cases_per_million',
+         'new_cases_smoothed_per_million',
+         'total_deaths_per_million',
+         'new_deaths_per_million',
+         #'new_deaths_smoothed_per_million',
+         #'reproduction_rate',
+         'icu_patients',
+         'icu_patients_per_million',
+         'weekly_icu_admissions',
+         'weekly_icu_admissions_per_million',
+         'hosp_patients',
+         'hosp_patients_per_million'
+         'weekly_hosp_admissions',
+         'weekly_hosp_admissions_per_million',
+         'total_tests',
+         'new_tests',
+         'new_tests_smoothed',
+         'total_tests_per_thousand',
+         'new_tests_per_thousand',
+         'new_tests_smoothed',
+         'new_tests_smoothed_per_thousand',
+         'positive_rate',
+         'tests_per_case',
+         'tests_units',
+         'total_vaccinations',
+         'people_vaccinated',
+         'people_fully_vaccinated',
+         'total_boosters',
+         'new_vaccinations',
+         'new_vaccinations_smoothed',
+         'total_vaccinations_per_hundred',
+         #'people_vaccinated_per_hundred',
+         'people_fully_vaccinated_per_hundred',
+         'new_vaccinations_smoothed_per_million',
+         'new_people_vaccinated_smoothed',
+         'new_people_vaccinated_smoothed_per_hundred',
+         'population',
+         'extreme_poverty',
+         'handwashing_facilities', #might add back, high correlation
+         'excess_mortality_cumulative_absolute',
+         'excess_mortality_cumulative',
+         'excess_mortality',
+         'excess_mortality_cumulative_per_million'
+        ], axis=1)
     print(len(dataset.columns))
     dataset = pd.get_dummies(
         dataset, columns=['location'], prefix='', prefix_sep='')
