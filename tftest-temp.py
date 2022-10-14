@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
+import math
 np.set_printoptions(precision=3, suppress=True)
 
 
@@ -81,7 +82,6 @@ def build_and_compile_model(norm):
   model = keras.Sequential([
       norm,
       layers.Dense(32, activation='relu'),
-      layers.Dense(32, activation='relu'),
       layers.Dense(1, activation='linear')
   ])
 
@@ -107,14 +107,21 @@ history = dnn_model.fit(
 test_results = {}
 
 test_results['dnn_model'] = dnn_model.evaluate(test_features, test_labels, verbose=0)
-
-# Predict
 test_predictions = dnn_model.predict(test_features).flatten()
 
-for actual, predicted in zip(test_labels, test_predictions):
-    #diff is percent error
-    diff = ((actual - predicted)/actual) * 100
-    print(f"Actual: {actual} ===== Predicted: {predicted} ===== Difference: {diff}")
+# Predict
+def test_model(test_labels, test_predictions):
+  differences = []
+  for actual, predicted in zip(test_labels, test_predictions):
+      #diff is percent error
+      diff = ((actual - predicted)/actual) * 100
+      print(f"Actual: {actual} ===== Predicted: {predicted} ===== Difference: {diff}")
+      if not math.isinf(diff):
+          differences.append(abs(diff))
+  # Calculate average percent error
+  average_diff = sum(differences)/len(differences)
+  print(f"Average difference: {average_diff}")
+
 
 
 # Save the model
