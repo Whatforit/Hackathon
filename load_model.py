@@ -3,6 +3,7 @@ import tensorflow as tf
 from tensorflow import keras
 import pandas as pd
 import numpy as np
+import math
 
 model = keras.models.load_model('dnn_model/')
 model.summary()
@@ -45,7 +46,15 @@ test_labels = test_features.pop('new_deaths_per_million')
 # Predict
 test_predictions = model.predict(test_features).flatten()
 
-for actual, predicted in zip(test_labels, test_predictions):
-    #diff is percent error
-    diff = ((actual - predicted)/actual) * 100
-    print(f"Actual: {actual} ===== Test: {predicted} ===== Difference: {diff}" )
+def test_model(test_labels, test_predictions):
+  differences = []
+  for actual, predicted in zip(test_labels, test_predictions):
+      #diff is percent error
+      diff = ((actual - predicted)/actual) * 100
+      print(f"Actual: {actual} ===== Predicted: {predicted} ===== Difference: {diff}")
+      if not math.isinf(diff):
+          differences.append(abs(diff))
+  # Calculate average percent error
+  average_diff = sum(differences)/len(differences)
+  print(f"Average difference: {average_diff}")
+test_model(test_labels, test_predictions)
