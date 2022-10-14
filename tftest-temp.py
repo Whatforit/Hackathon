@@ -14,6 +14,8 @@ file = 'owid-covid-data-large.csv'
 target = 'total_deaths_per_million'
 threshhold = 4
 node_scalar = 5
+epochs = 1000
+
 def clean_data(file):
 
     raw_dataset = pd.read_csv(file, na_values='?', comment='\t', sep=',')
@@ -86,7 +88,7 @@ history = dnn_model.fit(
     train_features,
     train_labels,
     validation_split=0.2,
-    verbose=1, epochs=100)
+    verbose=1, epochs=epochs)
 
 
 
