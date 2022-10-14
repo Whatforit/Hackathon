@@ -34,6 +34,7 @@ def clean_data(file):
     return (dataset)
 
 dataset = clean_data(file)
+print(len(dataset.index))
 
 # Split the data into train and test
 train_dataset = dataset.sample(frac=0.8, random_state=0)
@@ -81,11 +82,12 @@ plot_loss(history)
 def build_and_compile_model(norm):
   model = keras.Sequential([
       norm,
-      layers.Dense(32, activation='relu'),
+      layers.Dense(192, activation='relu'),
+      layers.Dense(192, activation='relu'),
       layers.Dense(1, activation='linear')
   ])
 
-  model.compile(loss='huber',
+  model.compile(loss='mean_absolute_error',
                 optimizer=tf.keras.optimizers.Adam(0.001))
   return model
 
