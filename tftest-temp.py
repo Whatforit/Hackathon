@@ -110,24 +110,11 @@ test_results['dnn_model'] = dnn_model.evaluate(test_features, test_labels, verbo
 
 # Predict
 test_predictions = dnn_model.predict(test_features).flatten()
-'''
-a = plt.axes(aspect='equal')
-plt.scatter(test_labels, test_predictions)
-plt.xlabel('True Values [deaths]')
-plt.ylabel('Predictions [deaths]')
-lims = [0, 50]
-plt.xlim(lims)
-plt.ylim(lims)
-_ = plt.plot(lims, lims)
-'''
 
-
-error = test_predictions - test_labels
-print("Error: ", error)
-
-plt.hist(error, bins=25)
-plt.xlabel('Prediction Error [deaths]')
-_ = plt.ylabel('Count')
+for actual, predicted in zip(test_labels, test_predictions):
+    #diff is percent error
+    diff = ((actual - predicted)/actual) * 100
+    print(f"Actual: {actual} ===== Predicted: {predicted} ===== Difference: {diff}")
 
 
 # Save the model

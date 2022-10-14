@@ -1,7 +1,10 @@
 #load saved keras model
 import tensorflow as tf
 from tensorflow import keras
-model = keras.models.load_model('dnn_model/saved_model.pb')
+import pandas as pd
+import numpy as np
+
+model = keras.models.load_model('dnn_model/')
 model.summary()
 file = 'owid-covid-data-large.csv'
 def clean_data(file):
@@ -41,3 +44,8 @@ test_labels = test_features.pop('new_deaths_per_million')
 
 # Predict
 test_predictions = model.predict(test_features).flatten()
+
+for actual, predicted in zip(test_labels, test_predictions):
+    #diff is percent error
+    diff = ((actual - predicted)/actual) * 100
+    print(f"Actual: {actual} ===== Test: {predicted} ===== Difference: {diff}" )
