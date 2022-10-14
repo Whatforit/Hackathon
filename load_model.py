@@ -1,16 +1,9 @@
-
+#load saved keras model
 import tensorflow as tf
 from tensorflow import keras
-from keras import layers
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import seaborn as sns
-np.set_printoptions(precision=3, suppress=True)
-
-
+model = keras.models.load_model('dnn_model/saved_model.pb')
+model.summary()
 file = 'owid-covid-data-large.csv'
-
 def clean_data(file):
 
     column_names = ['iso_code', 'continent', 'location', 'date', 'total_cases', 'new_cases', 'new_cases_smoothed', 'total_deaths', 'new_deaths', 'new_deaths_smoothed', 'total_cases_per_million', 'new_cases_per_million', 'new_cases_smoothed_per_million', 'total_deaths_per_million', 'new_deaths_per_million', 'new_deaths_smoothed_per_million', 'reproduction_rate', 'icu_patients', 'icu_patients_per_million', 'hosp_patients', 'hosp_patients_per_million', 'weekly_icu_admissions', 'weekly_icu_admissions_per_million', 'weekly_hosp_admissions', 'weekly_hosp_admissions_per_million', 'total_tests', 'new_tests', 'total_tests_per_thousand', 'new_tests_per_thousand', 'new_tests_smoothed', 'new_tests_smoothed_per_thousand', 'positive_rate', 'tests_per_case', 'tests_units', 'total_vaccinations', 'people_vaccinated',
@@ -34,7 +27,6 @@ def clean_data(file):
 
 dataset = clean_data(file)
 
-# Split the data into train and test
 train_dataset = dataset.sample(frac=0.8, random_state=0)
 test_dataset = dataset.drop(train_dataset.index)
 
@@ -47,94 +39,5 @@ test_features = test_dataset.copy()
 train_labels = train_features.pop('new_deaths_per_million')
 test_labels = test_features.pop('new_deaths_per_million')
 
-#
-print(train_dataset.describe().transpose()[['mean', 'std']])
-
-
-# Create normalization layer
-normalizer = tf.keras.layers.Normalization(axis=-1)
-normalizer.adapt(np.array(train_features))
-print("Normalizer")
-print(normalizer.mean.numpy())
-
-
-
-'''
-def plot_loss(history):
-  plt.plot(history.history['loss'], label='loss')
-  plt.plot(history.history['val_loss'], label='val_loss')
-  plt.ylim([0, 10])
-  plt.xlabel('Epoch')
-  plt.ylabel('Error [total_deaths_per_million]')
-  plt.legend()
-  plt.grid(True)
-
-
-
-plot_loss(history)
-'''
-
-
-
-# Build the model
-def build_and_compile_model(norm):
-  model = keras.Sequential([
-      norm,
-      layers.Dense(32, activation='relu'),
-      layers.Dense(32, activation='relu'),
-      layers.Dense(1, activation='linear')
-  ])
-
-  model.compile(loss='mean_squared_error',
-                optimizer=tf.keras.optimizers.Adam(0.001))
-  return model
-
-# Compile the model
-dnn_model = build_and_compile_model(normalizer)
-dnn_model.summary()
-
-# Train the model
-history = dnn_model.fit(
-    train_features,
-    train_labels,
-    validation_split=0.2,
-    verbose=1, epochs=100)
-
-
-
-#plot_loss(history)
-
-test_results = {}
-
-test_results['dnn_model'] = dnn_model.evaluate(test_features, test_labels, verbose=0)
-
 # Predict
-test_predictions = dnn_model.predict(test_features).flatten()
-'''
-a = plt.axes(aspect='equal')
-plt.scatter(test_labels, test_predictions)
-plt.xlabel('True Values [deaths]')
-plt.ylabel('Predictions [deaths]')
-lims = [0, 50]
-plt.xlim(lims)
-plt.ylim(lims)
-_ = plt.plot(lims, lims)
-'''
-
-
-error = test_predictions - test_labels
-print("Error: ", error)
-
-plt.hist(error, bins=25)
-plt.xlabel('Prediction Error [deaths]')
-_ = plt.ylabel('Count')
-
-
-# Save the model
-dnn_model.save('dnn_model')
-
-
-
-
-
-
+test_predictions = model.predict(test_features).flatten()
