@@ -152,10 +152,8 @@ print(f"Nodes: {nodes}")
 def build_and_compile_model(norm):
     model = keras.Sequential([
         norm,
-        layers.Dense(64, activation='relu',),
-        layers.Dropout(0.5),
-        layers.Dense(64, activation='relu',),
-        layers.Dropout(0.5),
+        layers.Dense(nodes, activation='relu'),
+        #layers.Dropout(0.2),
         layers.Dense(1)
     ])
 
@@ -177,7 +175,7 @@ history = dnn_model.fit(
     train_features,
     train_labels,
     validation_split=0.2,
-    verbose=1, epochs=epochs, batch_size=1)
+    verbose=1, epochs=epochs, callbacks=[earlystopping])
 
 
 # plot_loss(history)
