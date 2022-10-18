@@ -1,0 +1,6562 @@
+{
+  "Albania": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.3458650112]],
+      "real_val": 30.476,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-3.7379126549]],
+      "real_val": 644.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[13.7949361801]],
+      "real_val": 46.81,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[97.7963409424]],
+      "real_val": 12.41,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.566149652]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[6.4463882446]],
+      "real_val": 104.871,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[89.9372177124]],
+      "real_val": 38.0,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-32.3293075562]],
+      "real_val": 13.188,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-60.1016921997]],
+      "real_val": 11803.431,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 51.2,
+      "imputed_val": 51.2,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[11.4196472168]],
+      "real_val": 2.89,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-17.3824748993]],
+      "real_val": 78.57,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[31.0574855804]],
+      "real_val": 0.795,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Algeria": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-4.1526312828]],
+      "real_val": 0.385,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[30.5258960724]],
+      "real_val": 628.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[194.4770355225]],
+      "real_val": 17.75,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[697.8438110352]],
+      "real_val": 1.3,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 45.32,
+      "imputed_val": 45.32,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[75.7091445923]],
+      "real_val": 17.348,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1215.0571289062]],
+      "real_val": 29.1,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-746.9735107422]],
+      "real_val": 6.211,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-304.6396789551]],
+      "real_val": 13913.839,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[360.8123779297]],
+      "real_val": 30.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[85.3665084839]],
+      "real_val": 1.9,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-128.8992919922]],
+      "real_val": 76.88,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[347.1862487793]],
+      "real_val": 0.748,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Argentina": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0720738396]],
+      "real_val": 26.67592,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.4306861758]],
+      "real_val": 18690.76,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 91.2236,
+      "imputed_val": 91.2236,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[1.8717302084]],
+      "real_val": 67.5392,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-2.1909956932]],
+      "real_val": 13.408,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.4026442766]],
+      "real_val": 16.177,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[32.3388977051]],
+      "real_val": 31.9,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-53.6217041016]],
+      "real_val": 11.198,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-27.6529273987]],
+      "real_val": 18933.907,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[13.5710659027]],
+      "real_val": 27.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-6.5656790733]],
+      "real_val": 5.0,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-14.7062721252]],
+      "real_val": 76.67,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[7.1472687721]],
+      "real_val": 0.845,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Australia": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 660.070625,
+      "imputed_val": 660.070625,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0306233726]],
+      "real_val": 3543.125,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-11.9942073822]],
+      "real_val": 86.54125,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[43.4810600281]],
+      "real_val": 54.9125,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-38.1691131592]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[15.2563333511]],
+      "real_val": 3.202,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[40.5002288818]],
+      "real_val": 37.9,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-88.9346542358]],
+      "real_val": 15.504,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-20.5058193207]],
+      "real_val": 44648.71,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-59.7730331421]],
+      "real_val": 16.5,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-109.4861831665]],
+      "real_val": 3.84,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 83.44,
+      "imputed_val": 83.44,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.944,
+      "imputed_val": 0.944,
+      "is_increase_good": "false"
+    }
+  },
+  "Austria": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 838.872,
+      "imputed_val": 838.872,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-3.0663070679]],
+      "real_val": 9191.1176470588,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-5.7091407776]],
+      "real_val": 77.1867647059,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[2.8918545246]],
+      "real_val": 64.2123529412,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-1.0625091791]],
+      "real_val": 35.19,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-2.321138382]],
+      "real_val": 106.749,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 44.4,
+      "imputed_val": 44.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-1.6061971188]],
+      "real_val": 19.202,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-5.7669634819]],
+      "real_val": 45436.686,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[1.5987713337]],
+      "real_val": 30.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 7.37,
+      "imputed_val": 7.37,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-9.8881616592]],
+      "real_val": 81.54,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-0.9947995543]],
+      "real_val": 0.922,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Bahamas": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.3688738942]],
+      "real_val": 40.6958,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.6957551241]],
+      "real_val": 143.2,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[14.5624237061]],
+      "real_val": 42.366,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[41.644443512]],
+      "real_val": 8.384,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 40.74,
+      "imputed_val": 40.74,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[7.8223919868]],
+      "real_val": 39.497,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[56.8402099609]],
+      "real_val": 34.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-71.6820373535]],
+      "real_val": 8.996,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[16.7950534821]],
+      "real_val": 27717.847,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[3.812517643]],
+      "real_val": 20.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[37.7031059265]],
+      "real_val": 2.9,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[1.3160023689]],
+      "real_val": 73.92,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[11.042845726]],
+      "real_val": 0.814,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Bahrain": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.2179408669]],
+      "real_val": 208.33115625,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[1.309997201]],
+      "real_val": 125.15625,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-10.5420017242]],
+      "real_val": 84.7725,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[3.9509131908]],
+      "real_val": 68.57,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-10.1183443069]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 1935.907,
+      "imputed_val": 1935.907,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[26.3172054291]],
+      "real_val": 32.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-177.5957336426]],
+      "real_val": 2.372,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-2.635882616]],
+      "real_val": 43290.705,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[30.7435760498]],
+      "real_val": 37.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-9.0160512924]],
+      "real_val": 2.0,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-34.9093055725]],
+      "real_val": 77.29,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-8.8304681778]],
+      "real_val": 0.852,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Bangladesh": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-4.4771814346]],
+      "real_val": 2.3052,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 201311.3,
+      "imputed_val": 201311.3,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-100.1508712769]],
+      "real_val": 77.633,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[168.0010375977]],
+      "real_val": 26.721,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[5.5018610954]],
+      "real_val": 13.89,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 1265.036,
+      "imputed_val": 1265.036,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[911.0216064453]],
+      "real_val": 27.5,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-455.2073364258]],
+      "real_val": 5.098,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-239.3364868164]],
+      "real_val": 3523.984,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-6.4059538841]],
+      "real_val": 44.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-122.4937591553]],
+      "real_val": 0.8,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[146.4606170654]],
+      "real_val": 72.59,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[744.014831543]],
+      "real_val": 0.632,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Belarus": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.372720778]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0277845487]],
+      "real_val": 23765.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[10.4450750351]],
+      "real_val": 67.865,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[31.6725883484]],
+      "real_val": 28.855,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-1.7336187363]],
+      "real_val": 5.56,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.2645053566]],
+      "real_val": 46.858,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[21.0166835785]],
+      "real_val": 40.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-16.5283813477]],
+      "real_val": 14.799,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-14.1135110855]],
+      "real_val": 17167.967,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-0.0996533185]],
+      "real_val": 46.1,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 11.0,
+      "imputed_val": 11.0,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-28.9517841339]],
+      "real_val": 74.79,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[6.6951260567]],
+      "real_val": 0.823,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Belgium": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.1311211288]],
+      "real_val": 165.3519117647,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.6047301292]],
+      "real_val": 56340.4705882353,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-5.6720094681]],
+      "real_val": 79.7238235294,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 74.4082352941,
+      "imputed_val": 74.4082352941,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-6.8488044739]],
+      "real_val": 14.81,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-0.3793555796]],
+      "real_val": 375.564,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[7.835958004]],
+      "real_val": 41.8,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-4.5336713791]],
+      "real_val": 18.571,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-8.6034593582]],
+      "real_val": 42658.576,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-8.0083942413]],
+      "real_val": 31.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-2.6200807095]],
+      "real_val": 5.64,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-6.6982932091]],
+      "real_val": 81.63,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-0.0542922765]],
+      "real_val": 0.931,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Botswana": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-2.2494208813]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[3.3620331287]],
+      "real_val": 0.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[4.8619351387]],
+      "real_val": 59.735,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[64.8880157471]],
+      "real_val": 17.135,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[5.9976458549]],
+      "real_val": 1.39,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[3.3791613579]],
+      "real_val": 4.044,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[252.4864959717]],
+      "real_val": 25.8,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-128.14894104]],
+      "real_val": 3.941,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-54.9727935791]],
+      "real_val": 15807.374,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[45.5759658813]],
+      "real_val": 34.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[30.0166568756]],
+      "real_val": 1.8,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-45.6070709229]],
+      "real_val": 69.59,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[44.817276001]],
+      "real_val": 0.735,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Brazil": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.2153176516]],
+      "real_val": 35.7599166667,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.049375549]],
+      "real_val": 108048.08,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-0.086980857]],
+      "real_val": 87.138,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[5.8947715759]],
+      "real_val": 55.1668,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.3523144126]],
+      "real_val": 22.22,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[2.917624712]],
+      "real_val": 25.04,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[36.9712409973]],
+      "real_val": 33.5,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-70.3660049438]],
+      "real_val": 8.552,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-39.4323959351]],
+      "real_val": 14103.452,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[5.2874836922]],
+      "real_val": 17.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-8.1184930801]],
+      "real_val": 2.2,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-8.6745691299]],
+      "real_val": 75.88,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[4.2139291763]],
+      "real_val": 0.765,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Brunei": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.81337291]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[3.8103382587]],
+      "real_val": 709.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 100.91,
+      "imputed_val": 100.91,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 74.86,
+      "imputed_val": 74.86,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-14.035820961]],
+      "real_val": 13.9,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[4.9132122993]],
+      "real_val": 81.347,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[119.7857284546]],
+      "real_val": 32.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-327.0927124023]],
+      "real_val": 4.591,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 71809.251,
+      "imputed_val": 71809.251,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[220.8916625977]],
+      "real_val": 30.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[42.4756011963]],
+      "real_val": 2.7,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-112.7811889648]],
+      "real_val": 75.86,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-20.480588913]],
+      "real_val": 0.838,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Cambodia": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-5.0202999115]],
+      "real_val": 0.37675,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-2.7988071442]],
+      "real_val": 28595.25,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 91.5225,
+      "imputed_val": 91.5225,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[48.465965271]],
+      "real_val": 60.9125,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[15.2420091629]],
+      "real_val": 20.37,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.8838541508]],
+      "real_val": 90.672,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1181.7227783203]],
+      "real_val": 25.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-493.0339355469]],
+      "real_val": 4.412,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-335.2770996094]],
+      "real_val": 3645.07,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-23.612039566]],
+      "real_val": 33.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-58.3096694946]],
+      "real_val": 0.8,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[77.0778274536]],
+      "real_val": 69.82,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[463.979095459]],
+      "real_val": 0.594,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Canada": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.431787014]],
+      "real_val": 64.9679411765,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[1.3340770006]],
+      "real_val": 45564.3235294118,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-3.6911110878]],
+      "real_val": 87.0767647059,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[7.1526064873]],
+      "real_val": 64.7670588235,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-0.4754467309]],
+      "real_val": 16.6176470588,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[11.40239048]],
+      "real_val": 4.037,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[17.6543273926]],
+      "real_val": 41.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-22.6609191895]],
+      "real_val": 16.984,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[1.5251706839]],
+      "real_val": 44017.591,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[59.5026359558]],
+      "real_val": 16.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[43.9532051086]],
+      "real_val": 2.5,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-1.0759100914]],
+      "real_val": 82.43,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-0.4487834871]],
+      "real_val": 0.929,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Cape Verde": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.021566391]],
+      "real_val": 1.701,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.598484993]],
+      "real_val": 621.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-20.2298202515]],
+      "real_val": 60.645,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[80.1033706665]],
+      "real_val": 0.115,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-4.4708871841]],
+      "real_val": 19.44,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[8.8862895966]],
+      "real_val": 135.58,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[424.1776123047]],
+      "real_val": 25.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-246.0335693359]],
+      "real_val": 4.46,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-197.3903045654]],
+      "real_val": 6222.554,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[123.6608734131]],
+      "real_val": 16.5,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[13.417429924]],
+      "real_val": 2.1,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-45.4131546021]],
+      "real_val": 72.98,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[32.1239013672]],
+      "real_val": 0.665,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Chile": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.3266640306]],
+      "real_val": 204.9964482759,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.5728619099]],
+      "real_val": 15784.7586206897,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 92.6768965517,
+      "imputed_val": 92.6768965517,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 138.8403448276,
+      "imputed_val": 138.8403448276,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-3.3125600815]],
+      "real_val": 22.7796551724,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-3.3355088234]],
+      "real_val": 24.282,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[11.5077953339]],
+      "real_val": 35.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-45.5812034607]],
+      "real_val": 11.087,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-20.7094287872]],
+      "real_val": 22767.037,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[2.7609257698]],
+      "real_val": 41.5,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-17.7342033386]],
+      "real_val": 2.11,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-9.3340682983]],
+      "real_val": 80.18,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[4.9351000786]],
+      "real_val": 0.851,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "China": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.9091923237]],
+      "real_val": 1.091,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 168857.0,
+      "imputed_val": 168857.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 91.37,
+      "imputed_val": 91.37,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[33.9273681641]],
+      "real_val": 56.51,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 75.46,
+      "imputed_val": 75.46,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-16.9495677948]],
+      "real_val": 147.674,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[76.4168014526]],
+      "real_val": 38.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-105.0239105225]],
+      "real_val": 10.641,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-130.6208496094]],
+      "real_val": 15308.712,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 48.4,
+      "imputed_val": 48.4,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-21.5257148743]],
+      "real_val": 4.34,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-18.0090084076]],
+      "real_val": 76.91,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[192.2819061279]],
+      "real_val": 0.761,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Costa Rica": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.8684309125]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.110888198]],
+      "real_val": 7477.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-0.5657839179]],
+      "real_val": 86.75,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[12.5125141144]],
+      "real_val": 49.46,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[1.504550457]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[4.1003713608]],
+      "real_val": 96.079,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[71.4771652222]],
+      "real_val": 33.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-82.4252548218]],
+      "real_val": 9.468,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-5.5576858521]],
+      "real_val": 15524.995,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[3.4220907688]],
+      "real_val": 17.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[37.0269470215]],
+      "real_val": 1.13,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.2870859802]],
+      "real_val": 80.28,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[15.9470453262]],
+      "real_val": 0.81,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Czechia": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.0042860983]],
+      "real_val": 203.2681071429,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-2.0735993385]],
+      "real_val": 5471.8571428571,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-8.8187971115]],
+      "real_val": 66.3503571429,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[5.4848914146]],
+      "real_val": 43.1839285714,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-11.0213155746]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.1672703028]],
+      "real_val": 137.176,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.4471434653]],
+      "real_val": 43.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-1.7200212479]],
+      "real_val": 19.027,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-20.2435112]],
+      "real_val": 32605.906,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-17.7601909637]],
+      "real_val": 38.3,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 6.63,
+      "imputed_val": 6.63,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-16.9300308228]],
+      "real_val": 79.38,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-1.8945114613]],
+      "real_val": 0.9,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Denmark": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-2.2934317589]],
+      "real_val": 158.9948235294,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[8.8295869827]],
+      "real_val": 211.9705882353,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-10.2597866058]],
+      "real_val": 82.1764705882,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[13.828245163]],
+      "real_val": 62.3055882353,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-17.9485702515]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[6.235502243]],
+      "real_val": 136.52,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[16.3309268951]],
+      "real_val": 42.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 19.677,
+      "imputed_val": 19.677,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-8.5254220963]],
+      "real_val": 46682.515,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[74.4235610962]],
+      "real_val": 18.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[33.7723655701]],
+      "real_val": 2.5,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-18.596540451]],
+      "real_val": 80.9,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.94,
+      "imputed_val": 0.94,
+      "is_increase_good": "false"
+    }
+  },
+  "Egypt": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-10.9425373077]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[4.2842550278]],
+      "real_val": 50532.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[199.1179504395]],
+      "real_val": 48.16,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[515.2634887695]],
+      "real_val": 7.64,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[8.7609786987]],
+      "real_val": 35.19,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.3061515093]],
+      "real_val": 97.999,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1094.2664794922]],
+      "real_val": 25.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-443.7139587402]],
+      "real_val": 5.159,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-18.8510322571]],
+      "real_val": 10550.206,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 50.1,
+      "imputed_val": 50.1,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[379.6858520508]],
+      "real_val": 1.6,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[126.2963180542]],
+      "real_val": 71.99,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[329.8780822754]],
+      "real_val": 0.707,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "El Salvador": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.3831686378]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.2446575165]],
+      "real_val": 2370.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[21.1699790955]],
+      "real_val": 73.69,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[65.8922042847]],
+      "real_val": 36.3,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.1549879014]],
+      "real_val": 38.83,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[7.9939713478]],
+      "real_val": 307.811,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[298.3838195801]],
+      "real_val": 27.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-217.400177002]],
+      "real_val": 8.273,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[59.5021476746]],
+      "real_val": 7292.458,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[29.4939041138]],
+      "real_val": 18.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[75.1181182861]],
+      "real_val": 1.3,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[16.991651535]],
+      "real_val": 73.32,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[112.5191650391]],
+      "real_val": 0.673,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Eswatini": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.6554020643]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-1.0123844147]],
+      "real_val": 272.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-46.607093811]],
+      "real_val": 41.265,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[140.915222168]],
+      "real_val": 12.355,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-11.011888504]],
+      "real_val": 20.37,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[20.3141593933]],
+      "real_val": 79.492,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[738.4934692383]],
+      "real_val": 21.5,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-388.2478942871]],
+      "real_val": 3.163,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-160.6562652588]],
+      "real_val": 7738.975,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[187.5158538818]],
+      "real_val": 16.5,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[29.4866046906]],
+      "real_val": 2.1,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-238.7802124023]],
+      "real_val": 60.19,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[112.8587493896]],
+      "real_val": 0.611,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Fiji": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.097193718]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-4.2105379105]],
+      "real_val": 168.6,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-12.5811605453]],
+      "real_val": 76.766,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[89.7417221069]],
+      "real_val": 17.924,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.44137007]],
+      "real_val": 35.474,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[2.092905283]],
+      "real_val": 49.562,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[196.2378692627]],
+      "real_val": 28.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-148.2710418701]],
+      "real_val": 6.224,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-47.3926544189]],
+      "real_val": 8702.975,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-40.9458389282]],
+      "real_val": 34.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-18.4561862946]],
+      "real_val": 2.3,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-48.6952438354]],
+      "real_val": 67.44,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[31.3586235046]],
+      "real_val": 0.743,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Finland": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.4022749662]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[5.4374146461]],
+      "real_val": 5335.4,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-11.1763305664]],
+      "real_val": 81.68,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.9100786448]],
+      "real_val": 71.02,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-7.5037031174]],
+      "real_val": 24.07,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[5.8295440674]],
+      "real_val": 18.136,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[5.8234324455]],
+      "real_val": 42.8,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 21.228,
+      "imputed_val": 21.228,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-26.14960289]],
+      "real_val": 40585.721,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[38.2556991577]],
+      "real_val": 22.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[13.8092832565]],
+      "real_val": 3.28,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-6.2630357742]],
+      "real_val": 81.91,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.938,
+      "imputed_val": 0.938,
+      "is_increase_good": "false"
+    }
+  },
+  "France": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 476.3286470588,
+      "imputed_val": 476.3286470588,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.6423155069]],
+      "real_val": 20208.2058823529,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-2.6391065121]],
+      "real_val": 80.9347058824,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[2.7741832733]],
+      "real_val": 64.1511764706,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-7.2183976173]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-2.103559494]],
+      "real_val": 122.578,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[8.2796401978]],
+      "real_val": 42.0,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 19.718,
+      "imputed_val": 19.718,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-14.8497638702]],
+      "real_val": 38605.671,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-2.4014782906]],
+      "real_val": 35.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-1.2976456881]],
+      "real_val": 5.98,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 82.66,
+      "imputed_val": 82.66,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-2.0698301792]],
+      "real_val": 0.901,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Germany": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 482.7695172414,
+      "imputed_val": 482.7695172414,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-2.5438995361]],
+      "real_val": 30067.4827586207,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-1.1553475857]],
+      "real_val": 77.6620689655,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[1.5609912872]],
+      "real_val": 71.0296551724,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-3.3923630714]],
+      "real_val": 14.81,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-2.4244570732]],
+      "real_val": 237.016,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 46.6,
+      "imputed_val": 46.6,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 21.453,
+      "imputed_val": 21.453,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-5.2116594315]],
+      "real_val": 45229.245,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[11.7192220688]],
+      "real_val": 33.1,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 8.0,
+      "imputed_val": 8.0,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-11.5890350342]],
+      "real_val": 81.33,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.947,
+      "imputed_val": 0.947,
+      "is_increase_good": "false"
+    }
+  },
+  "Ghana": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-6.6643328667]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-8.092089653]],
+      "real_val": 23464.6666666667,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-658.3150024414]],
+      "real_val": 34.9366666667,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[1255.91796875]],
+      "real_val": 5.7833333333,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-15.2768955231]],
+      "real_val": 34.8666666667,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[152.8941192627]],
+      "real_val": 126.719,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[5980.3598632812]],
+      "real_val": 21.1,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-3036.9379882812]],
+      "real_val": 3.385,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-1727.22265625]],
+      "real_val": 4227.63,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[1511.9642333984]],
+      "real_val": 7.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[79.7446746826]],
+      "real_val": 0.9,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-1201.2058105469]],
+      "real_val": 64.07,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[519.8025512695]],
+      "real_val": 0.611,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Greece": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 597.6193823529,
+      "imputed_val": 597.6193823529,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.6982249618]],
+      "real_val": 3007.5294117647,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[5.2023487091]],
+      "real_val": 75.8935294118,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[7.8745179176]],
+      "real_val": 61.2144117647,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-8.0504369736]],
+      "real_val": 14.81,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.9326384664]],
+      "real_val": 83.479,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 45.3,
+      "imputed_val": 45.3,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 20.396,
+      "imputed_val": 20.396,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-17.5745353699]],
+      "real_val": 24574.382,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 52.0,
+      "imputed_val": 52.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[3.0116415024]],
+      "real_val": 4.21,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-2.1296420097]],
+      "real_val": 82.24,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[3.9410207272]],
+      "real_val": 0.888,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Hungary": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[null]],
+      "real_val": null,
+      "imputed_val": null,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 66.0933333333,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 43.6133333333,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 5.56,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 108.043,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 43.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 18.577,
+      "imputed_val": 19.435,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 26777.561,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 34.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 7.02,
+      "imputed_val": 7.02,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 76.88,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 0.854,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "India": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-3.1023759842]],
+      "real_val": 3.3841176471,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 1981475.0588235294,
+      "imputed_val": 1981475.0588235294,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-17.3182258606]],
+      "real_val": 72.8726470588,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[129.6936035156]],
+      "real_val": 13.5882352941,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-0.8029238582]],
+      "real_val": 37.04,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 450.419,
+      "imputed_val": 450.419,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[374.5094909668]],
+      "real_val": 28.2,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-245.8514862061]],
+      "real_val": 5.989,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-190.0148010254]],
+      "real_val": 6426.674,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-83.4041976929]],
+      "real_val": 20.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-92.5187530518]],
+      "real_val": 0.53,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[72.5233764648]],
+      "real_val": 69.66,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[431.9744262695]],
+      "real_val": 0.645,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Indonesia": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-2.4499666691]],
+      "real_val": 6.6165,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.0793139264]],
+      "real_val": 85702.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-24.3399085999]],
+      "real_val": 74.535,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[50.2686386108]],
+      "real_val": 22.905,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-4.7485089302]],
+      "real_val": 29.8,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-2.6686913967]],
+      "real_val": 145.725,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[148.3397064209]],
+      "real_val": 29.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-112.3462524414]],
+      "real_val": 5.319,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-21.755487442]],
+      "real_val": 11188.744,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 76.1,
+      "imputed_val": 76.1,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-67.2235641479]],
+      "real_val": 1.04,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[13.5622234344]],
+      "real_val": 71.72,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[168.1030578613]],
+      "real_val": 0.718,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Iran": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.0915195942]],
+      "real_val": 6.005,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-1.4404835701]],
+      "real_val": 23280.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-7.0229239464]],
+      "real_val": 73.9575,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[26.4105758667]],
+      "real_val": 35.095,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 53.8925,
+      "imputed_val": 53.8925,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-2.4042379856]],
+      "real_val": 49.831,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[74.9886322021]],
+      "real_val": 32.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-85.0907821655]],
+      "real_val": 5.44,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-42.0320625305]],
+      "real_val": 19082.62,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-38.5558395386]],
+      "real_val": 21.1,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-13.1645994186]],
+      "real_val": 1.5,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[17.6482143402]],
+      "real_val": 76.68,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[30.8714351654]],
+      "real_val": 0.783,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Israel": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.872320056]],
+      "real_val": 104.6660322581,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-2.2727820873]],
+      "real_val": 278.4516129032,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-10.3189888]],
+      "real_val": 72.3067741935,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[7.5485973358]],
+      "real_val": 57.6429032258,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-16.3035240173]],
+      "real_val": 14.81,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-0.4222117364]],
+      "real_val": 402.606,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[-8.0482797623]],
+      "real_val": 30.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "true"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-42.2810058594]],
+      "real_val": 11.733,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-7.9406180382]],
+      "real_val": 33132.32,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-19.188911438]],
+      "real_val": 35.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-27.2684841156]],
+      "real_val": 2.99,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 82.97,
+      "imputed_val": 82.97,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[5.0753364563]],
+      "real_val": 0.919,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Italy": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.0158832557]],
+      "real_val": 345.1581875,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.4470119774]],
+      "real_val": 14108.875,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-2.0360703468]],
+      "real_val": 85.8175,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 73.0934375,
+      "imputed_val": 73.0934375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-8.3242092133]],
+      "real_val": 14.390625,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-0.0727220923]],
+      "real_val": 205.859,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 47.9,
+      "imputed_val": 47.9,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 23.021,
+      "imputed_val": 23.021,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-23.4787139893]],
+      "real_val": 35220.084,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-7.1237182617]],
+      "real_val": 27.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-3.0501203537]],
+      "real_val": 3.18,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 83.51,
+      "imputed_val": 83.51,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-3.2341983318]],
+      "real_val": 0.892,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Japan": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 551.9213823529,
+      "imputed_val": 551.9213823529,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 257185.0294117647,
+      "imputed_val": 257185.0294117647,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-21.4651145935]],
+      "real_val": 83.6214705882,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 92.6097058824,
+      "imputed_val": 92.6097058824,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-0.4873023331]],
+      "real_val": 35.4767647059,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-5.6070899963]],
+      "real_val": 347.778,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 48.2,
+      "imputed_val": 48.2,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 27.049,
+      "imputed_val": 27.049,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-28.385925293]],
+      "real_val": 39002.223,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[112.392616272]],
+      "real_val": 33.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 13.05,
+      "imputed_val": 13.05,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 84.63,
+      "imputed_val": 84.63,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.2618854642]],
+      "real_val": 0.919,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Kenya": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.6221764088]],
+      "real_val": 0.044,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.5058693886]],
+      "real_val": 20557.6666666667,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[70.9980392456]],
+      "real_val": 25.4866666667,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[489.638671875]],
+      "real_val": 2.96,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-4.0150513649]],
+      "real_val": 35.99,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[65.2246627808]],
+      "real_val": 87.324,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1975.4127197266]],
+      "real_val": 20.0,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-864.5543212891]],
+      "real_val": 2.686,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-397.3940734863]],
+      "real_val": 2993.028,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[420.6984558105]],
+      "real_val": 20.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[27.7751560211]],
+      "real_val": 1.4,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-288.4411010742]],
+      "real_val": 66.7,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[473.1500244141]],
+      "real_val": 0.601,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Kiribati": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-5.3219838142]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-19.3213157654]],
+      "real_val": 88.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[48.6802482605]],
+      "real_val": 64.23,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[249.9525604248]],
+      "real_val": 11.04,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-21.6199207306]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-10.5851392746]],
+      "real_val": 143.701,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[316.5459289551]],
+      "real_val": 23.2,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-193.4660644531]],
+      "real_val": 3.895,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[152.2586212158]],
+      "real_val": 1981.132,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 58.9,
+      "imputed_val": 58.9,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[56.1774978638]],
+      "real_val": 1.9,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-125.1077651978]],
+      "real_val": 68.37,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[166.9157714844]],
+      "real_val": 0.63,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Kuwait": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.5249863267]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[4.6038284302]],
+      "real_val": 496.6,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-33.5351409912]],
+      "real_val": 81.044,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[68.0572357178]],
+      "real_val": 33.646,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-2.3218266964]],
+      "real_val": 10.0,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[4.5149936676]],
+      "real_val": 232.128,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[65.8019943237]],
+      "real_val": 33.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-254.7386627197]],
+      "real_val": 2.345,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 65530.537,
+      "imputed_val": 65530.537,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[66.4682312012]],
+      "real_val": 37.0,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[64.8848648071]],
+      "real_val": 2.0,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-71.6584701538]],
+      "real_val": 75.49,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-38.0895957947]],
+      "real_val": 0.806,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Lebanon": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.3638606071]],
+      "real_val": 33.3773333333,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-5.5299053192]],
+      "real_val": 846.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-12.8902111053]],
+      "real_val": 48.7366666667,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[20.8025779724]],
+      "real_val": 11.55,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 41.53,
+      "imputed_val": 41.53,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 594.561,
+      "imputed_val": 594.561,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[-5.933306694]],
+      "real_val": 31.1,
+      "imputed_val": 43.4,
+      "is_increase_good": "true"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-54.3726921082]],
+      "real_val": 8.514,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-17.7066993713]],
+      "real_val": 13367.565,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-17.9362487793]],
+      "real_val": 40.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-17.2250041962]],
+      "real_val": 2.9,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[1.176644206]],
+      "real_val": 78.93,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[41.2867012024]],
+      "real_val": 0.744,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Liberia": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[3.1115927696]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-2.0766267776]],
+      "real_val": 13744.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-38.3217277527]],
+      "real_val": 68.72,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[-544.9567260742]],
+      "real_val": 0.04,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "true"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[23.2033615112]],
+      "real_val": 32.12,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-106.4688415527]],
+      "real_val": 49.127,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[-3741.7329101562]],
+      "real_val": 19.2,
+      "imputed_val": 43.4,
+      "is_increase_good": "true"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[1741.7565917969]],
+      "real_val": 3.057,
+      "imputed_val": 19.435,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[827.1638793945]],
+      "real_val": 752.788,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-767.9727783203]],
+      "real_val": 18.1,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-134.104019165]],
+      "real_val": 0.8,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[564.6437988281]],
+      "real_val": 64.1,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-905.6177978516]],
+      "real_val": 0.48,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Lithuania": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 383.0358709677,
+      "imputed_val": 383.0358709677,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.6161171198]],
+      "real_val": 154.0322580645,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[10.9198856354]],
+      "real_val": 70.1567741935,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[34.719959259]],
+      "real_val": 33.7025806452,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-4.8465471268]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[2.2802598476]],
+      "real_val": 45.135,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 43.5,
+      "imputed_val": 43.5,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-1.9733922482]],
+      "real_val": 19.002,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-17.3854446411]],
+      "real_val": 29524.265,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-1.8409891129]],
+      "real_val": 38.0,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.2901417315]],
+      "real_val": 6.56,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-22.2159461975]],
+      "real_val": 75.93,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[1.6988787651]],
+      "real_val": 0.882,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Luxembourg": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.0034809043]],
+      "real_val": 304.66890625,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[3.7317771912]],
+      "real_val": 206.96875,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-23.1118850708]],
+      "real_val": 75.34125,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[3.4531672001]],
+      "real_val": 67.4046875,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-6.2489042282]],
+      "real_val": 16.47625,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[4.045044899]],
+      "real_val": 231.447,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[22.4813594818]],
+      "real_val": 39.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-30.9631519318]],
+      "real_val": 14.312,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 94277.965,
+      "imputed_val": 94277.965,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[47.2052764893]],
+      "real_val": 26.0,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[8.8250551224]],
+      "real_val": 4.51,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-2.255667448]],
+      "real_val": 82.25,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-4.8047623634]],
+      "real_val": 0.916,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Malawi": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[3.2488975525]],
+      "real_val": 0.176,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-3.9030461311]],
+      "real_val": 7220.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[103.1656036377]],
+      "real_val": 15.77,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[628.6488647461]],
+      "real_val": 0.53,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 40.74,
+      "imputed_val": 40.74,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[60.5803833008]],
+      "real_val": 197.519,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[2401.5463867188]],
+      "real_val": 18.1,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-1019.2128295898]],
+      "real_val": 2.979,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-288.1106262207]],
+      "real_val": 1095.042,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[437.0552062988]],
+      "real_val": 24.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-15.612326622]],
+      "real_val": 1.3,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-461.0108032227]],
+      "real_val": 64.26,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[706.7684936523]],
+      "real_val": 0.483,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Malaysia": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.3290888369]],
+      "real_val": 58.4354193548,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-2.7458138466]],
+      "real_val": 2534.875,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-5.4420514107]],
+      "real_val": 83.6978125,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[28.3778572083]],
+      "real_val": 49.8046875,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-0.3233382106]],
+      "real_val": 35.69,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-6.2859392166]],
+      "real_val": 96.254,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[56.4227409363]],
+      "real_val": 29.9,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-105.5490646362]],
+      "real_val": 6.293,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-31.5742263794]],
+      "real_val": 26808.164,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-9.9462051392]],
+      "real_val": 42.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[10.8432855606]],
+      "real_val": 1.9,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-3.6941401958]],
+      "real_val": 76.16,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[34.0760726929]],
+      "real_val": 0.81,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Malta": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.5583869219]],
+      "real_val": 40.1122580645,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-1.5458570719]],
+      "real_val": 37.7096774194,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-0.5491811037]],
+      "real_val": 90.7167741935,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 79.87,
+      "imputed_val": 79.87,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-10.1772813797]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 1454.037,
+      "imputed_val": 1454.037,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[8.8403301239]],
+      "real_val": 42.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-0.0996113047]],
+      "real_val": 19.426,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-27.5432167053]],
+      "real_val": 36513.323,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[9.4641189575]],
+      "real_val": 30.2,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-0.4890491664]],
+      "real_val": 4.485,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-1.0544033051]],
+      "real_val": 82.53,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-4.8008365631]],
+      "real_val": 0.895,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Mauritius": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-2.0705754757]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-5.5832204819]],
+      "real_val": 530.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-28.3220863342]],
+      "real_val": 78.68,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[19.6135692596]],
+      "real_val": 49.045,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-11.8258256912]],
+      "real_val": 5.56,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 622.962,
+      "imputed_val": 622.962,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[42.889995575]],
+      "real_val": 37.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-155.3527984619]],
+      "real_val": 10.945,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-55.1819152832]],
+      "real_val": 20292.745,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[31.1327781677]],
+      "real_val": 40.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[19.5674724579]],
+      "real_val": 3.4,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-103.1986465454]],
+      "real_val": 74.99,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-20.0034732819]],
+      "real_val": 0.804,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Mexico": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.877309382]],
+      "real_val": 17.154,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.1985501796]],
+      "real_val": 0.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[2.7448709011]],
+      "real_val": 76.315,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[13.6964826584]],
+      "real_val": 44.98,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[3.0541574955]],
+      "real_val": 18.515,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[3.6978309155]],
+      "real_val": 66.444,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[71.2919082642]],
+      "real_val": 29.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-62.1865921021]],
+      "real_val": 6.857,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[13.2730646133]],
+      "real_val": 17336.469,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[4.4018697739]],
+      "real_val": 21.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[35.5556144714]],
+      "real_val": 1.38,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-1.2105931044]],
+      "real_val": 75.05,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[13.4010763168]],
+      "real_val": 0.779,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Moldova": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.1824373901]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.1085751429]],
+      "real_val": 448.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[14.1481485367]],
+      "real_val": 35.97,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[45.7796707153]],
+      "real_val": 12.1,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-2.2361519337]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[3.308876276]],
+      "real_val": 123.655,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[45.3688850403]],
+      "real_val": 37.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-41.4969406128]],
+      "real_val": 10.864,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-48.5564727783]],
+      "real_val": 5189.972,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-1.3522082567]],
+      "real_val": 44.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.061379984]],
+      "real_val": 5.8,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-34.5109710693]],
+      "real_val": 71.9,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[12.6355009079]],
+      "real_val": 0.75,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Morocco": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-3.7307560444]],
+      "real_val": 0.33075,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[10.6635723114]],
+      "real_val": 3113.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-8.7940263748]],
+      "real_val": 67.4275,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[146.4136962891]],
+      "real_val": 18.465,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[8.7933607101]],
+      "real_val": 27.09,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-2.1567680836]],
+      "real_val": 80.08,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[442.124786377]],
+      "real_val": 29.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-179.4676361084]],
+      "real_val": 6.769,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-164.9876708984]],
+      "real_val": 7485.013,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 47.1,
+      "imputed_val": 47.1,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[92.3026657104]],
+      "real_val": 1.1,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-11.9579000473]],
+      "real_val": 76.68,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[163.1574249268]],
+      "real_val": 0.686,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Mozambique": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 0.1766666667,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[null]],
+      "real_val": null,
+      "imputed_val": null,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 41.9633333333,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 1.8933333333,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 17.59,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 37.728,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 17.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 3.158,
+      "imputed_val": 19.435,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 1136.103,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 29.1,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 0.7,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 60.85,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[null]],
+      "real_val": 0.456,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Nepal": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-5.6681747437]],
+      "real_val": 1.7536666667,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[1.5011987686]],
+      "real_val": 83499.6666666667,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-3.1845140457]],
+      "real_val": 89.96,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[85.1996383667]],
+      "real_val": 27.0866666667,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-5.3045759201]],
+      "real_val": 22.4833333333,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-2.2916193008]],
+      "real_val": 204.43,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[595.5140380859]],
+      "real_val": 25.0,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-264.972869873]],
+      "real_val": 5.809,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-198.6646270752]],
+      "real_val": 2442.804,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-26.2517814636]],
+      "real_val": 37.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-50.2367858887]],
+      "real_val": 0.3,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[68.5674972534]],
+      "real_val": 70.78,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[388.148223877]],
+      "real_val": 0.602,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Netherlands": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.7805577517]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[1.8273800611]],
+      "real_val": 1974.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-10.4787025452]],
+      "real_val": 73.0,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[4.8923325539]],
+      "real_val": 53.81,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-10.7395467758]],
+      "real_val": 15.65,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 508.544,
+      "imputed_val": 508.544,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1.2358899117]],
+      "real_val": 43.2,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-4.8748383522]],
+      "real_val": 18.779,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 48472.545,
+      "imputed_val": 48472.545,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-6.1163644791]],
+      "real_val": 27.3,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.2259370834]],
+      "real_val": 3.32,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-2.8982098103]],
+      "real_val": 82.28,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.944,
+      "imputed_val": 0.944,
+      "is_increase_good": "false"
+    }
+  },
+  "New Zealand": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0130099915]],
+      "real_val": 232.2365862069,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[3.477022171]],
+      "real_val": 2958.8275862069,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-25.01039505]],
+      "real_val": 83.7720689655,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[31.0288276672]],
+      "real_val": 64.5748275862,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-48.833732605]],
+      "real_val": 12.4410344828,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[13.945555687]],
+      "real_val": 18.206,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[69.9856033325]],
+      "real_val": 37.9,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-100.9715805054]],
+      "real_val": 15.322,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-66.3975448608]],
+      "real_val": 36085.843,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-35.8857307434]],
+      "real_val": 17.2,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-162.8984069824]],
+      "real_val": 2.61,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-7.3177547455]],
+      "real_val": 82.29,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-0.6922376752]],
+      "real_val": 0.931,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Norway": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-5.4188423157]],
+      "real_val": 14.0020769231,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[9.8803806305]],
+      "real_val": 8250.2692307692,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-31.6839694977]],
+      "real_val": 80.4253846154,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[16.5994873047]],
+      "real_val": 64.2092307692,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-22.8248081207]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[5.6970934868]],
+      "real_val": 14.462,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[75.9088897705]],
+      "real_val": 39.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-51.023639679]],
+      "real_val": 16.821,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 64800.057,
+      "imputed_val": 64800.057,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[165.6951599121]],
+      "real_val": 20.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[39.2257728577]],
+      "real_val": 3.6,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-4.081469059]],
+      "real_val": 82.4,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.957,
+      "imputed_val": 0.957,
+      "is_increase_good": "false"
+    }
+  },
+  "Oman": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.5124139786]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[1.8307883739]],
+      "real_val": 278.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-43.1438980103]],
+      "real_val": 72.55,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[50.2010879517]],
+      "real_val": 17.28,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[20.2888050079]],
+      "real_val": 14.81,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.3899508715]],
+      "real_val": 14.98,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[132.9199066162]],
+      "real_val": 30.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-267.8394165039]],
+      "real_val": 2.355,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-46.3702354431]],
+      "real_val": 37960.709,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-12.9276752472]],
+      "real_val": 15.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-53.7452354431]],
+      "real_val": 1.6,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[12.7005205154]],
+      "real_val": 77.86,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-8.6007986069]],
+      "real_val": 0.813,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Pakistan": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-4.4096441269]],
+      "real_val": 0.4058636364,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 142370.7727272727,
+      "imputed_val": 142370.7727272727,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-231.3374938965]],
+      "real_val": 60.1968181818,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[279.4520874023]],
+      "real_val": 18.4945454545,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 39.8727272727,
+      "imputed_val": 39.8727272727,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.7094479799]],
+      "real_val": 255.573,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1872.9919433594]],
+      "real_val": 23.5,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-904.2059936523]],
+      "real_val": 4.495,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-475.1606445312]],
+      "real_val": 5034.708,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[5.0226755142]],
+      "real_val": 36.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-131.5066375732]],
+      "real_val": 0.6,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[185.7255096436]],
+      "real_val": 67.27,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[633.5661621094]],
+      "real_val": 0.557,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Panama": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.912686348]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.5244375467]],
+      "real_val": 2402.3333333333,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-5.6889696121]],
+      "real_val": 80.3966666667,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[6.2383308411]],
+      "real_val": 44.4633333333,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.5732818246]],
+      "real_val": 17.59,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[4.4838414192]],
+      "real_val": 55.133,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[110.4593429565]],
+      "real_val": 29.7,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-135.5262145996]],
+      "real_val": 7.918,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-19.6785488129]],
+      "real_val": 22267.037,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[23.2665710449]],
+      "real_val": 9.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[15.5329551697]],
+      "real_val": 2.3,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-0.0115339803]],
+      "real_val": 78.51,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-2.6174373627]],
+      "real_val": 0.815,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Paraguay": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.1358247548]],
+      "real_val": 66.455,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.10781423]],
+      "real_val": 566.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-1.6688711643]],
+      "real_val": 59.075,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[16.0671005249]],
+      "real_val": 28.245,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.4543448389]],
+      "real_val": 13.89,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[3.7251107693]],
+      "real_val": 17.144,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[70.7481384277]],
+      "real_val": 26.5,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-81.2081451416]],
+      "real_val": 6.378,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-47.2175636292]],
+      "real_val": 8827.01,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-14.6726741791]],
+      "real_val": 21.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-13.8537769318]],
+      "real_val": 1.3,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-12.6789455414]],
+      "real_val": 74.25,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.4027126431]],
+      "real_val": 0.728,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Philippines": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.7315030098]],
+      "real_val": 20.75,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.1937648952]],
+      "real_val": 101796.6666666667,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-39.2312660217]],
+      "real_val": 68.03,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[58.1130752563]],
+      "real_val": 16.5066666667,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[4.3150320053]],
+      "real_val": 30.2666666667,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-0.7217163444]],
+      "real_val": 351.873,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[335.6007385254]],
+      "real_val": 25.2,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-133.399597168]],
+      "real_val": 4.803,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-94.3000946045]],
+      "real_val": 7599.188,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[5.2161803246]],
+      "real_val": 40.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-41.5883522034]],
+      "real_val": 1.0,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[64.8105697632]],
+      "real_val": 71.23,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[114.7905960083]],
+      "real_val": 0.718,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Poland": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.1121371165]],
+      "real_val": 85.19825,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.171079427]],
+      "real_val": 15849.4166666667,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[5.4769062996]],
+      "real_val": 59.4483333333,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[22.5463962555]],
+      "real_val": 35.9941666667,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-5.7261500359]],
+      "real_val": 9.26,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.998033762]],
+      "real_val": 124.027,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[9.4393043518]],
+      "real_val": 41.8,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-9.9503707886]],
+      "real_val": 16.763,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-17.4270210266]],
+      "real_val": 27216.445,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-15.8337783813]],
+      "real_val": 33.1,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 6.62,
+      "imputed_val": 6.62,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-12.0637712479]],
+      "real_val": 78.73,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[2.2102885246]],
+      "real_val": 0.88,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Portugal": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.0305231716]],
+      "real_val": 332.9996,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-1.4963662624]],
+      "real_val": 19707.8,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 94.812,
+      "imputed_val": 94.812,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.5118140578]],
+      "real_val": 67.098,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-15.1851043701]],
+      "real_val": 12.778,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-4.812297821]],
+      "real_val": 112.371,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 46.2,
+      "imputed_val": 46.2,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 21.502,
+      "imputed_val": 21.502,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-48.1230049133]],
+      "real_val": 27936.896,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-4.2678875923]],
+      "real_val": 30.0,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-5.2406368256]],
+      "real_val": 3.39,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-3.6855478287]],
+      "real_val": 82.05,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-7.5371727943]],
+      "real_val": 0.864,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Qatar": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.2578294575]],
+      "real_val": 278.3425,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[10.7919874191]],
+      "real_val": 3388.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 103.8175,
+      "imputed_val": 103.8175,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[8.5191087723]],
+      "real_val": 69.5525,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-3.3539302349]],
+      "real_val": 15.56,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[13.3397731781]],
+      "real_val": 227.322,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[81.995803833]],
+      "real_val": 31.9,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-817.5721435547]],
+      "real_val": 1.307,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 116935.6,
+      "imputed_val": 116935.6,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[562.0696411133]],
+      "real_val": 26.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[202.569229126]],
+      "real_val": 1.2,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-91.7813262939]],
+      "real_val": 80.23,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-85.4869918823]],
+      "real_val": 0.848,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Russia": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.1586951464]],
+      "real_val": 291.5698666667,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 136075.6666666667,
+      "imputed_val": 136075.6666666667,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[21.0500068665]],
+      "real_val": 58.3573333333,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[53.0529136658]],
+      "real_val": 12.3173333333,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-0.5523124933]],
+      "real_val": 29.7833333333,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.229847759]],
+      "real_val": 8.823,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[26.5580921173]],
+      "real_val": 39.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-26.4223213196]],
+      "real_val": 14.178,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-12.017616272]],
+      "real_val": 24765.954,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 58.3,
+      "imputed_val": 58.3,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 8.05,
+      "imputed_val": 8.05,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-50.4507827759]],
+      "real_val": 72.58,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[7.7019467354]],
+      "real_val": 0.824,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Singapore": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 460.3631212121,
+      "imputed_val": 460.3631212121,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[16.1840057373]],
+      "real_val": 1314.0303030303,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 94.6257575758,
+      "imputed_val": 94.6257575758,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 80.7560606061,
+      "imputed_val": 80.7560606061,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[1.1656314135]],
+      "real_val": 18.2718181818,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 7915.731,
+      "imputed_val": 7915.731,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[-0.4279736876]],
+      "real_val": 42.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "true"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-180.1928710938]],
+      "real_val": 12.922,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 85535.383,
+      "imputed_val": 85535.383,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[251.8641662598]],
+      "real_val": 28.3,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-131.7844390869]],
+      "real_val": 2.4,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 83.62,
+      "imputed_val": 83.62,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.938,
+      "imputed_val": 0.938,
+      "is_increase_good": "false"
+    }
+  },
+  "South Africa": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.4067264795]],
+      "real_val": 4.2928666667,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[1.5574569702]],
+      "real_val": 6114.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[19.2412757874]],
+      "real_val": 37.5473333333,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[52.2262763977]],
+      "real_val": 6.258,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.5382849574]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[3.2898497581]],
+      "real_val": 46.754,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[133.4523773193]],
+      "real_val": 27.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-90.4509429932]],
+      "real_val": 5.344,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-34.5230560303]],
+      "real_val": 12294.876,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[30.8878536224]],
+      "real_val": 33.2,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[15.995388031]],
+      "real_val": 2.32,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-62.449848175]],
+      "real_val": 64.13,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[25.8655910492]],
+      "real_val": 0.709,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "South Korea": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 847.8328823529,
+      "imputed_val": 847.8328823529,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-4.1381988525]],
+      "real_val": 11200.1764705882,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-8.6033582687]],
+      "real_val": 87.0367647059,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 79.0044117647,
+      "imputed_val": 79.0044117647,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-32.1391029358]],
+      "real_val": 13.4811764706,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 527.967,
+      "imputed_val": 527.967,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 43.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-37.275188446]],
+      "real_val": 13.914,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-11.7599878311]],
+      "real_val": 35938.374,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-2.9154205322]],
+      "real_val": 40.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 12.27,
+      "imputed_val": 12.27,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 83.03,
+      "imputed_val": 83.03,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-0.5678550005]],
+      "real_val": 0.916,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Spain": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.691968143]],
+      "real_val": 1.88475,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-1.2211310863]],
+      "real_val": 3797.25,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-1.3076847792]],
+      "real_val": 86.9775,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[2.8495721817]],
+      "real_val": 54.6625,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-10.3377809525]],
+      "real_val": 13.89,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-4.299539566]],
+      "real_val": 93.105,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 45.5,
+      "imputed_val": 45.5,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 19.436,
+      "imputed_val": 19.436,
+      "is_increase_good": "false"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-34.4664382935]],
+      "real_val": 34272.36,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-9.1698913574]],
+      "real_val": 31.4,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-8.6932010651]],
+      "real_val": 2.97,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 83.56,
+      "imputed_val": 83.56,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-2.5286109447]],
+      "real_val": 0.904,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Sri Lanka": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-2.1960785389]],
+      "real_val": 0.8723333333,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-10.452173233]],
+      "real_val": 6389.3333333333,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-30.1792507172]],
+      "real_val": 78.6466666667,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[53.2891197205]],
+      "real_val": 37.54,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[3.2785892487]],
+      "real_val": 30.5366666667,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.9743081331]],
+      "real_val": 341.955,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[102.7902603149]],
+      "real_val": 34.1,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-92.0465621948]],
+      "real_val": 10.069,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-124.0199432373]],
+      "real_val": 11669.077,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-65.098991394]],
+      "real_val": 27.0,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-20.8837299347]],
+      "real_val": 3.6,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[14.1504707336]],
+      "real_val": 76.98,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[49.7480354309]],
+      "real_val": 0.782,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Switzerland": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.1254632473]],
+      "real_val": 233.8735172414,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-1.2368552685]],
+      "real_val": 1351.4482758621,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-26.0964164734]],
+      "real_val": 70.0986206897,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[11.4640865326]],
+      "real_val": 46.2606896552,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-12.6940488815]],
+      "real_val": 5.56,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.8362044692]],
+      "real_val": 214.243,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[2.3263266087]],
+      "real_val": 43.1,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-7.3274655342]],
+      "real_val": 18.436,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 57410.166,
+      "imputed_val": 57410.166,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[7.8876266479]],
+      "real_val": 28.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-8.3541603088]],
+      "real_val": 4.53,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 83.78,
+      "imputed_val": 83.78,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.955,
+      "imputed_val": 0.955,
+      "is_increase_good": "false"
+    }
+  },
+  "Thailand": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[1.2840942144]],
+      "real_val": 13.0815172414,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-4.8476443291]],
+      "real_val": 20304.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-27.3578948975]],
+      "real_val": 79.5768965517,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[48.2893867493]],
+      "real_val": 44.5972413793,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-5.6293592453]],
+      "real_val": 29.63,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-11.0120038986]],
+      "real_val": 135.132,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[64.2136611938]],
+      "real_val": 40.1,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-92.8394699097]],
+      "real_val": 11.373,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-150.2018737793]],
+      "real_val": 16277.671,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-34.6539802551]],
+      "real_val": 38.8,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-55.1749992371]],
+      "real_val": 2.1,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[0.4651025534]],
+      "real_val": 77.15,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[134.539642334]],
+      "real_val": 0.777,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Timor": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-5.6922392845]],
+      "real_val": 3.785,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-43.5090904236]],
+      "real_val": 899.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-262.3671569824]],
+      "real_val": 64.41,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[334.9091186523]],
+      "real_val": 15.675,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-30.8947734833]],
+      "real_val": 13.89,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-7.5847864151]],
+      "real_val": 87.176,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[881.2463989258]],
+      "real_val": 18.0,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-829.5200195312]],
+      "real_val": 3.556,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[111.5397109985]],
+      "real_val": 6570.102,
+      "imputed_val": 48293.542,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 78.1,
+      "imputed_val": 78.1,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-64.3411483765]],
+      "real_val": 5.9,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-145.836517334]],
+      "real_val": 69.5,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[987.2020874023]],
+      "real_val": 0.606,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Togo": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-2.5827083588]],
+      "real_val": 3.008,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-9.7997617722]],
+      "real_val": 387.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-7.6734333038]],
+      "real_val": 25.09,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[1022.3814086914]],
+      "real_val": 1.56,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 39.35,
+      "imputed_val": 39.35,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[96.3395233154]],
+      "real_val": 143.366,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[4045.0263671875]],
+      "real_val": 19.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-1859.8551025391]],
+      "real_val": 2.839,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-680.6097412109]],
+      "real_val": 1429.813,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[1049.9921875]],
+      "real_val": 14.2,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[175.3625640869]],
+      "real_val": 0.7,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-812.4808349609]],
+      "real_val": 61.04,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[981.666015625]],
+      "real_val": 0.515,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Turkey": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.4367289543]],
+      "real_val": 70.0622647059,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.399862051]],
+      "real_val": 10028.7058823529,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[2.7504839897]],
+      "real_val": 68.3261764706,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[27.8834381104]],
+      "real_val": 48.5173529412,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-0.9826274514]],
+      "real_val": 11.11,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-4.1735963821]],
+      "real_val": 104.914,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[36.7645492554]],
+      "real_val": 31.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-75.8041763306]],
+      "real_val": 8.153,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-20.7903633118]],
+      "real_val": 25129.341,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-13.2260408401]],
+      "real_val": 41.1,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[13.0746555328]],
+      "real_val": 2.81,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[2.0851130486]],
+      "real_val": 77.69,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[40.6138648987]],
+      "real_val": 0.82,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Uganda": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-3.2015573978]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.8363886476]],
+      "real_val": 10488.5,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[12.8574848175]],
+      "real_val": 40.315,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[473.9456176758]],
+      "real_val": 0.905,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-68.0653076172]],
+      "real_val": 13.89,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[64.7107849121]],
+      "real_val": 213.759,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[3078.4130859375]],
+      "real_val": 16.4,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-1290.9268798828]],
+      "real_val": 2.168,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-502.3213806152]],
+      "real_val": 1697.707,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[721.1686401367]],
+      "real_val": 16.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[35.9074897766]],
+      "real_val": 0.5,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-367.2899169922]],
+      "real_val": 63.37,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[607.6306152344]],
+      "real_val": 0.544,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "United Kingdom": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.3941277266]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[4.2670888901]],
+      "real_val": 11100.6666666667,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-7.2941846848]],
+      "real_val": 79.97,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[4.7368364334]],
+      "real_val": 60.0066666667,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-9.5289144516]],
+      "real_val": 5.56,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[2.202350378]],
+      "real_val": 272.898,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[14.5642843246]],
+      "real_val": 40.8,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-4.9508414268]],
+      "real_val": 18.517,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-21.0278205872]],
+      "real_val": 39753.244,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-6.683781147]],
+      "real_val": 24.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-6.2427887917]],
+      "real_val": 2.54,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-5.5866270065]],
+      "real_val": 81.32,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 0.932,
+      "imputed_val": 0.932,
+      "is_increase_good": "false"
+    }
+  },
+  "United States": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-0.4832024574]],
+      "real_val": 162.9617575758,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 382441.8181818182,
+      "imputed_val": 382441.8181818182,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-5.07726717]],
+      "real_val": 79.4715151515,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[4.7278327942]],
+      "real_val": 40.1254545455,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-4.125020504]],
+      "real_val": 25.736969697,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.1630088091]],
+      "real_val": 35.608,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[-1.1866396666]],
+      "real_val": 38.3,
+      "imputed_val": 43.4,
+      "is_increase_good": "true"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-20.6296615601]],
+      "real_val": 15.413,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 54225.446,
+      "imputed_val": 54225.446,
+      "is_increase_good": "false"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-0.7831614614]],
+      "real_val": 24.6,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[6.6152734756]],
+      "real_val": 2.77,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-12.2408714294]],
+      "real_val": 78.86,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-0.1580011845]],
+      "real_val": 0.926,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Uruguay": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.3708686829]],
+      "real_val": 73.914375,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-1.6787859201]],
+      "real_val": 436.25,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[1.1584618092]],
+      "real_val": 87.58125,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 82.83875,
+      "imputed_val": 82.83875,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[-9.0995864868]],
+      "real_val": 13.89,
+      "imputed_val": 39.298,
+      "is_increase_good": "true"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-1.1697319746]],
+      "real_val": 19.751,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[27.548915863]],
+      "real_val": 35.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-46.2792778015]],
+      "real_val": 14.655,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-46.3987312317]],
+      "real_val": 20551.409,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[13.7569293976]],
+      "real_val": 19.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-18.5040569305]],
+      "real_val": 2.8,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-16.8095111847]],
+      "real_val": 77.91,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[-1.3106251955]],
+      "real_val": 0.817,
+      "imputed_val": 0.9319,
+      "is_increase_good": "true"
+    }
+  },
+  "Uzbekistan": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-5.3678350449]],
+      "real_val": 0.0,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[-0.0191140622]],
+      "real_val": 122452.0,
+      "imputed_val": 122664.0,
+      "is_increase_good": "true"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[-151.5986022949]],
+      "real_val": 61.77,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "true"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[185.5034179688]],
+      "real_val": 39.07,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[45.5229759216]],
+      "real_val": 5.56,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[-5.9068379402]],
+      "real_val": 76.134,
+      "imputed_val": 445.6377,
+      "is_increase_good": "true"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1252.7333984375]],
+      "real_val": 28.2,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-873.0553588867]],
+      "real_val": 4.469,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-552.5550537109]],
+      "real_val": 6253.104,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[187.4727630615]],
+      "real_val": 24.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[85.8203277588]],
+      "real_val": 4.0,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[4.0571417809]],
+      "real_val": 71.72,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[247.2586364746]],
+      "real_val": 0.72,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Vietnam": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[-1.978965044]],
+      "real_val": 32.739,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "true"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 124572.0,
+      "imputed_val": 124572.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 92.09,
+      "imputed_val": 92.09,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[3.0708875656]],
+      "real_val": 71.62,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[5.9240736961]],
+      "real_val": 25.93,
+      "imputed_val": 39.298,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[0.1489311755]],
+      "real_val": 308.127,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[253.1777801514]],
+      "real_val": 32.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-108.122253418]],
+      "real_val": 7.15,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-80.1056137085]],
+      "real_val": 6171.884,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[-1.2013731003]],
+      "real_val": 45.9,
+      "imputed_val": 47.0,
+      "is_increase_good": "true"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[-8.7734766006]],
+      "real_val": 2.6,
+      "imputed_val": 6.614,
+      "is_increase_good": "true"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[36.0264015198]],
+      "real_val": 75.4,
+      "imputed_val": 82.647,
+      "is_increase_good": "false"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[241.8031921387]],
+      "real_val": 0.704,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  },
+  "Zimbabwe": {
+    "new_cases_per_million": {
+      "percentchangeindeaths": [[0.4674975872]],
+      "real_val": 1.757,
+      "imputed_val": 379.248102621,
+      "is_increase_good": "false"
+    },
+    "new_vaccinations_smoothed": {
+      "percentchangeindeaths": [[0.3514139056]],
+      "real_val": 2864.3,
+      "imputed_val": 122664.0,
+      "is_increase_good": "false"
+    },
+    "people_vaccinated_per_hundred": {
+      "percentchangeindeaths": [[41.9680976868]],
+      "real_val": 40.186,
+      "imputed_val": 91.1729174194,
+      "is_increase_good": "false"
+    },
+    "total_boosters_per_hundred": {
+      "percentchangeindeaths": [[267.050994873]],
+      "real_val": 6.398,
+      "imputed_val": 72.94609375,
+      "is_increase_good": "false"
+    },
+    "stringency_index": {
+      "percentchangeindeaths": [[0.0]],
+      "real_val": 52.61,
+      "imputed_val": 52.61,
+      "is_increase_good": "false"
+    },
+    "population_density": {
+      "percentchangeindeaths": [[43.2818946838]],
+      "real_val": 42.729,
+      "imputed_val": 445.6377,
+      "is_increase_good": "false"
+    },
+    "median_age": {
+      "percentchangeindeaths": [[1126.1322021484]],
+      "real_val": 19.6,
+      "imputed_val": 43.4,
+      "is_increase_good": "false"
+    },
+    "aged_65_older": {
+      "percentchangeindeaths": [[-480.2453613281]],
+      "real_val": 2.822,
+      "imputed_val": 19.435,
+      "is_increase_good": "true"
+    },
+    "gdp_per_capita": {
+      "percentchangeindeaths": [[-150.4982757568]],
+      "real_val": 1899.775,
+      "imputed_val": 48293.542,
+      "is_increase_good": "true"
+    },
+    "male_smokers": {
+      "percentchangeindeaths": [[172.0031890869]],
+      "real_val": 30.7,
+      "imputed_val": 47.0,
+      "is_increase_good": "false"
+    },
+    "hospital_beds_per_thousand": {
+      "percentchangeindeaths": [[50.3805160522]],
+      "real_val": 1.7,
+      "imputed_val": 6.614,
+      "is_increase_good": "false"
+    },
+    "life_expectancy": {
+      "percentchangeindeaths": [[-264.2481689453]],
+      "real_val": 61.49,
+      "imputed_val": 82.647,
+      "is_increase_good": "true"
+    },
+    "human_development_index": {
+      "percentchangeindeaths": [[288.341796875]],
+      "real_val": 0.571,
+      "imputed_val": 0.9319,
+      "is_increase_good": "false"
+    }
+  }
+}
